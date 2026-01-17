@@ -1,0 +1,12 @@
+# Word documents
+*.docx
+
+# Extracted content folder
+docx_content/
+
+# macOS
+.DS_Store
+
+# Backup files
+*~
+*.bak
