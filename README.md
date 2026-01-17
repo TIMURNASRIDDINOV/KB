@@ -32,7 +32,7 @@
 open quiz.html
 ```
 
-Или посетите GitHub Pages: [https://USERNAME.github.io/KB/quiz.html](https://USERNAME.github.io/KB/quiz.html)
+Или посетите GitHub Pages: [https://timurnasriddinov.github.io/KB/quiz.html](https://timurnasriddinov.github.io/KB/quiz.html)
 
 ## ⌨️ Горячие клавиши
 
